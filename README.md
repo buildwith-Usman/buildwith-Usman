@@ -9,7 +9,7 @@ I craft production-ready mobile products with strong architecture, clean code, a
 ## About Me
 
 - 📍 Based in Riyadh, Saudi Arabia
-- 📱 Specialized in **Flutter** and **Android (Kotlin)** development
+- 📱 Specialized in **Android (Kotlin)** and **Flutter** development
 - 🏗️ Passionate about **Clean Architecture**, **SOLID principles**, and scalable mobile systems
 - 🔭 Currently building healthcare and fitness mobile applications
 - 🌐 Portfolio: [muhammadusmanportfolio.vercel.app](https://muhammadusmanportfolio.vercel.app/)
