@@ -57,8 +57,6 @@ I craft production-ready mobile products with strong architecture, clean code, a
 
 ## GitHub Stats
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=buildwith-Usman&show_icons=true&theme=default&hide_border=true&count_private=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=buildwith-Usman&theme=default&hide_border=true)
 
 ---
